@@ -22,7 +22,7 @@ pod 'MyPod'
 
 ## Author
 
-sadakoyano, detchat.boonpragob@ega.or.th
+detchat.boonpragob
 
 ## License
 
